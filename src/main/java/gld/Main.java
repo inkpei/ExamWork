@@ -8,5 +8,16 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
         int n = scanner.nextInt();
         System.out.println(n);
+        System.out.println(n);
+        System.out.println(n);
+        System.out.println(n);
+        System.out.println(n);
+        System.out.println(n);
+        System.out.println(n);
+        System.out.println(n);
+        System.out.println(n);
+        System.out.println(n);
+        System.out.println(n);
+        System.out.println(n);
     }
 }
