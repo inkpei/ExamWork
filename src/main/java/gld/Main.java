@@ -9,8 +9,12 @@ public class Main {
         int n = scanner.nextInt();
         System.out.println(n);
         System.out.println(n);
+        asd
+                gsaedg
         System.out.println(n);
+        gqawkejr;
         System.out.println(n);
+        odfg;ll;s
         System.out.println(n);
         System.out.println(n);
         System.out.println(n);
